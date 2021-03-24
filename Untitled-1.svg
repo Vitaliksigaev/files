@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 500 500">
+
+   <ellipse cx="100" cy="150" rx="50" ry="10" style="fill:grey;"/>
+    <ellipse cx="60" cy="100" rx="30" ry="10" style="fill:orange; transform: rotateZ(15deg) rotateX(25deg);" />
+        <circle r="50" cx="100" cy="100"  fill="orange"/>
+        <circle r="20" cx="90" cy="90"  fill="white"/>
+        <circle r="20" cx="125" cy="90"  fill="white"/>
+        <circle r="7" cx="110" cy="105"  fill="black" />
+        <circle r="5" cx="80" cy="95"  fill="black" />
+        <circle r="5" cx="130" cy="78"  fill="black" />
+    <ellipse cx="100" cy="120" rx="10" ry="5" style="fill:red;"/>
+<polygon points="60,70 80,55 60,50"    fill="black" stroke="orange" stroke-width="2"  />
+<polygon points="130,65 110,55 130,45"   fill="black" stroke="orange" stroke-width="2"  /> 
+<polygon points="27,110 7,95 30,95" fill="white" stroke="orange" stroke-width="1"   /> 
+<ellipse cx="300" cy="150" rx="50" ry="10" style="fill:grey;"/>
+<circle r="50" cx="300" cy="100"  fill="yellow" />
+<circle r="20" cx="290" cy="90"  fill="white" />
+<circle r="20" cx="325" cy="90"  fill="white" />
+   <circle r="5" cx="280" cy="95"  fill="black" />
+    <circle r="5" cx="330" cy="98"  fill="black" />
+    <ellipse cx="300" cy="130" rx="5" ry="10" style="fill:red;"/>   
+  </svg>
