@@ -1,0 +1,142 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cix2c4');
+  src:  url('fonts/icomoon.eot?cix2c4#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cix2c4') format('truetype'),
+    url('fonts/icomoon.woff?cix2c4') format('woff'),
+    url('fonts/icomoon.svg?cix2c4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-blogger:before {
+  content: "\e900";
+  color: #ff5722;
+}
+.icon-github:before {
+  content: "\e901";
+}
+.icon-gmail:before {
+  content: "\e902";
+  color: #d14836;
+}
+.icon-google:before {
+  content: "\e903";
+  color: #4285f4;
+}
+.icon-googlechrome:before {
+  content: "\e904";
+  color: #4285f4;
+}
+.icon-googledrive:before {
+  content: "\e905";
+  color: #4285f4;
+}
+.icon-hp:before {
+  content: "\e906";
+  color: #0096d6;
+}
+.icon-html5:before {
+  content: "\e907";
+  color: #e34f26;
+}
+.icon-ibm:before {
+  content: "\e908";
+  color: #054ada;
+}
+.icon-icloud:before {
+  content: "\e909";
+  color: #3693f3;
+}
+.icon-inkscape:before {
+  content: "\e90a";
+}
+.icon-instagram:before {
+  content: "\e90b";
+  color: #e4405f;
+}
+.icon-internetexplorer:before {
+  content: "\e90c";
+  color: #0076d6;
+}
+.icon-itunes:before {
+  content: "\e90d";
+  color: #fb5bc5;
+}
+.icon-java:before {
+  content: "\e90e";
+  color: #007396;
+}
+.icon-linkedin:before {
+  content: "\e90f";
+  color: #0077b5;
+}
+.icon-mail-dot-ru:before {
+  content: "\e910";
+  color: #168de2;
+}
+.icon-microsoftword:before {
+  content: "\e911";
+  color: #2b579a;
+}
+.icon-opsgenie:before {
+  content: "\e912";
+}
+.icon-quarkus:before {
+  content: "\e913";
+  color: #4695eb;
+}
+.icon-react:before {
+  content: "\e914";
+  color: #61dafb;
+}
+.icon-tesla:before {
+  content: "\e915";
+  color: #c00;
+}
+.icon-whatsapp:before {
+  content: "\e916";
+  color: #25d366;
+}
+.icon-windows:before {
+  content: "\e917";
+  color: #0078d6;
+}
+.icon-wordpress:before {
+  content: "\e918";
+  color: #21759b;
+}
+.icon-home3:before {
+  content: "\e919";
+}
+.icon-office:before {
+  content: "\e91a";
+}
+.icon-newspaper:before {
+  content: "\e91b";
+}
+.icon-pencil:before {
+  content: "\e91c";
+}
+.icon-pencil2:before {
+  content: "\e91d";
+}
+.icon-quill:before {
+  content: "\e91e";
+}
